@@ -174,7 +174,7 @@ let resList = [
   //     },
   //   },
   // },
- 
+
   {
     card: {
       card: {
